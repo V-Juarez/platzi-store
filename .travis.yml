@@ -12,6 +12,7 @@ git:
 script: 
   - yarn build
 notifications:
+  slack: dev-ztg5628:0KxnQtvVMmAQBG0AZxgcq0EY
   email:
     recipients:
       - mytacam78@gmail.com
