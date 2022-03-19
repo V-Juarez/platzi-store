@@ -13,7 +13,7 @@ script:
   - yarn build
 notifications:
   email:
-    recipients:
+    reciepients:
       - mytacam78@gmail.com
       on_success: always
       on_failure: always
